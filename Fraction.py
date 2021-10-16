@@ -1,6 +1,3 @@
-"""Samuel Hubbard
-   10/15/2021
-   Fraction Python Class"""
 import math
 import sympy as sym
 
